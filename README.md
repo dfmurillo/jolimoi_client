@@ -1,4 +1,4 @@
-# converter
+# Converter Client
 
 ## Description
 Hello Mathilde,
