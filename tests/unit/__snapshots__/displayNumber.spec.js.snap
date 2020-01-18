@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`DisplayNumber.vue has the expected html structure 1`] = `
+<div
+  class="row"
+>
+  <div
+    class="jumbotron col-xl-5 col-lg-6 col-md-8 col-sm-10 mx-auto form p-5"
+  >
+    <div
+      class="container"
+    >
+      <p
+        class="lead"
+      >
+        Test Title for component
+      </p>
+       
+      <h1
+        class="display-4 text-center"
+        data-test="MyId"
+      >
+        5
+      </h1>
+    </div>
+  </div>
+</div>
+`;
